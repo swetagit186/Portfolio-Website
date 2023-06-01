@@ -259,8 +259,8 @@
     color:#4e45d5;
 }
 .project-card{
-    width:90%;
-    height:550px;
+    width:70%;
+    height:500px;
     background-image: url(./images/projects/Project1.png);
     background-size: cover;
     /* background-repeat: no-repeat; */
