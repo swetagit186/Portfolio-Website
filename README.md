@@ -24,10 +24,11 @@ You can access the live version of my portfolio website at [https://portfolio-we
 
 ## Setup and Usage
 
-1. Clone the repository using the url:
+Clone the repository using the url:
 
 
 https://github.com/swetagit186/Portfolio-Website.git
+
 Open the project in your preferred code editor.
 
 Customize the content and assets to reflect your own skills, projects, and experience. Update the index.html file, add your projects' information to the portfolio.html file, and make any necessary changes to the CSS files.
