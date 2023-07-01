@@ -1,5 +1,8 @@
 # Portfolio-Website
-# Personal Portfolio Website
+My Personal Portfolio Website.
+I have used the weather API on the weather project and consider it as my assignment for week-2.
+
+Personal Portfolio Website
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experience to potential employers, clients, and collaborators. It serves as a comprehensive overview of my work and capabilities.
 
@@ -45,4 +48,3 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 
 Feel free to modify the README file according to your specific website and project details.
-
